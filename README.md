@@ -20,6 +20,14 @@ The model can be seen below and downloaded above. If you find that this model sh
 
 ## Model:
 
-<p align="center">
-  <img s >
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  <p align="center">
+    <img src="https://github.com/keshi01/Oficina_SQL/raw/main/Oficina_2.png" alt="Imagem da Oficina">
+  </p>
+</body>
+</html>
+
